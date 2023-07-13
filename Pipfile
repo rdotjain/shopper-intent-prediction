@@ -10,11 +10,15 @@ nltk = "*"
 shap = "*"
 imblearn = "*"
 scikit-learn = "*"
-tensorflow = "*"
 matplotlib = "*"
 seaborn = "*"
 xgboost = "*"
 lightgbm = "*"
+tabtransformertf = "*"
+tensorflow-addons = "*"
+tensorflow = "==2.11.0"
+torch = "*"
+tab-transformer-pytorch = "*"
 
 [dev-packages]
 
