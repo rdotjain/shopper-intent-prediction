@@ -19,6 +19,11 @@ tensorflow-addons = "*"
 tensorflow = "==2.11.0"
 torch = "*"
 tab-transformer-pytorch = "*"
+statsmodels = "*"
+mcdm = "*"
+neupy = "*"
+tensorflow-probability = "*"
+tensorflow-datasets = "*"
 
 [dev-packages]
 
